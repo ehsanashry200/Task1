@@ -1,0 +1,30 @@
+.mony div{
+    width: 400px;
+    height: 400px;
+    background-color: #3aa;
+    margin: 20px auto;
+    padding: 20px;
+    color: white;
+}
+.assign-4-shape-1{
+    background-image: url(1234.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+}
+.assign-4-shape-2{
+    background-image: url(1234.png);
+    background-repeat: repeat-y;
+    background-position: right;
+    background-size: 80%;
+}
+.assign-4-shape-3{
+    background-image: url(1234.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-size: 80%;
+}
+.assign-4-shape-4{
+    background-image: url(1234.png);
+    background-repeat:no-repeat;
+    background-position: bottom right;
+}

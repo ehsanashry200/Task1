@@ -1,0 +1,17 @@
+ # Assigmment 19-23
+Q1:ما هي العناصر الموجودة في اللغة من العناصر التالية
+Header (نعم )
+Nav (نعم )
+Main (نعم )
+Aside (نعم )
+Picture (نعم )
+Figure(نعم )
+Footer (نعم )
+FigCaption (نعم )
+Section (نعم ) 
+Command (لا)
+Ruby (نعم )
+Data (نعم )
+Article(نعم )
+Install (لا)
+Text (لا)

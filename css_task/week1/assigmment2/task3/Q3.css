@@ -1,0 +1,28 @@
+.meko div{
+    width: 400px;
+    height: 400px;
+    background-color: #3aa;
+    margin: 20px auto;
+    padding: 20px;
+    color: white;
+}
+.assign-3-shape-1{
+    background-image: url(123.png);
+    background-repeat: no-repeat;
+}
+.assign-3-shape-2{
+    background-image: url(123.png);
+    background-repeat: repeat-y;
+    background-position: right;
+}
+.assign-3-shape-3{
+    background-image: url(123.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+.assign-3-shape-4{
+    background-image: url(123.png);
+    background-repeat:repeat;
+}
+
+

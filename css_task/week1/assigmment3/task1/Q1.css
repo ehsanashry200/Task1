@@ -1,0 +1,29 @@
+.mony div{
+    display: inline-block;
+    margin: 20px;
+    background-color: #eee;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    line-height: 6;
+
+}
+.tuo{
+    border: 5px solid red;
+    outline: 5px solid black;
+
+}
+.yoyo{
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue green;
+    outline: 5px solid;
+
+}
+.tota{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red green blue yellow ;
+    outline: 5px solid;
+
+}
