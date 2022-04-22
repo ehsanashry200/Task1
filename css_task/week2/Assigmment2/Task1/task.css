@@ -1,0 +1,9 @@
+.one1{
+    background-color: #eee;
+    padding: 20px;
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: .5px .5px 0 #fb4a3e, 1px 1px 0 #47a3ef, 1.5px 1.5px 0 rgb(141, 3, 141);
+}

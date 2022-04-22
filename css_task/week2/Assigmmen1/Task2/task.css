@@ -1,0 +1,16 @@
+.one,
+.two,
+.three,
+.four{
+    background-color: #bd2323;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    margin: 20px 0;
+    width: fit-content;
+    max-width: 360px;
+    max-height: 31px;
+}
+.four{
+    overflow: hidden;
+}

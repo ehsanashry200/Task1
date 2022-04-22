@@ -1,0 +1,12 @@
+.one{
+    border: 5px solid #f5637b;
+    padding: 20px;
+}
+.one p{
+    background-color: #eee;
+    text-align: center;
+    font-family: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: inherit;
+    padding: inherit;
+}

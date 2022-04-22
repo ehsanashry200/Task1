@@ -1,0 +1,13 @@
+.first,
+.second,
+.third{
+    background-color: #eee;
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+}
+.third{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

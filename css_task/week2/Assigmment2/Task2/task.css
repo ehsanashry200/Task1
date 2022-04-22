@@ -1,0 +1,19 @@
+.one,
+.two,
+.three{
+    background-color: #eee;
+    padding: 20px;
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    font-weight: bold;
+}
+.one{
+    text-transform: uppercase;
+}
+.two{
+    text-transform: capitalize;
+}
+.three{
+    text-transform: lowercase;
+}
